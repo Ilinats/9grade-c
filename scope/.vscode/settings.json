@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "typeinfo": "c",
-        "conio.h": "c",
-        "string.h": "c"
-    }
-}
